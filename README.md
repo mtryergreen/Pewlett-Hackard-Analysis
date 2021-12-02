@@ -7,7 +7,7 @@
 I'll create a table for Retirement Titles that utilizes the the ERD (entity relationship diagram) I created earlier in this module. Because some employees have multiple titles due to promotions, I'll need to use the 'DISTINCT ON' statement and 'COUNT()' function. 
 
 ## Deliverable 2: The employees elligible for the mentorship program
-I'll again use the ERD and queries to create a mentorship eligibility table. 
+I'll again use the ERD and queries to create a mentorship eligibility table by organizing primary keys, foreign keys and the data types. 
 
 ## Deliverable 3: Written report on employee database analysis
 
