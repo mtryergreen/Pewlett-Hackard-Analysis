@@ -1,3 +1,8 @@
+# Pewlett Hackard Analysis
+
+## Overview
+The 'Silver Wave' is coming to Pewlett Hackard, and I've been hired to shed light on how a wave of retiring employees leaving the company will impact job vacancies. To gauge the company's mitigation strategies against the silver wave, I'll be looking at how many employees may also be eligible for the mentorship program. 
+
 ## Tools
 - PostgreSQL 11.14 (has been debugged the most) without Stack Builder for tables and their predefined relationships
 <img width="443" alt="Screen Shot 2021-11-29 at 7 49 34 PM" src="https://user-images.githubusercontent.com/89936913/143982575-252f5e9e-5296-4f2e-a402-95a00f32875a.png">
