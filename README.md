@@ -1,3 +1,6 @@
+## Overview 
+This was the most fun module thus far. The process went from conceptualizing the data tables and how they connected with diagrams in QuickDBD to importing the .csv data sets into dataframes that I constructed in pgAdmin. 
+
 ## Tools
 - PostgreSQL 11.14 (has been debugged the most) without Stack Builder for tables and their predefined relationships
 <img width="443" alt="Screen Shot 2021-11-29 at 7 49 34 PM" src="https://user-images.githubusercontent.com/89936913/143982575-252f5e9e-5296-4f2e-a402-95a00f32875a.png">
